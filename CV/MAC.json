@@ -1,0 +1,447 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Isla Cruz",
+      "title": "Agile Player",
+      "description": "Hola! :)\n\nPues soy programador de vocación.. pero me encantan las personas y los equipos. Comencé como programador C++ en Sevilla, pasé por Analista, Jefe de Proyecto, etc. ya aquí en Madrid y desde hace hace unos cuantos años, estoy interesado en organizaciones horizontales (Sociocracia), Agile (XP) y sobre todo, en todos los aspectos técnicos y buenas prácticas en el desarrollo de Software :)\n\nSoy tranquilo, alegre pero también un poco tímido! :P \n\nNo creo en los \"jefes\", me gustaría encontrar un sitio donde todo el mundo pudiera aportar y todos aprendiéramos de todos.",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/davidisla"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/davidislacruz/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Soy astrónomo aficionado!!!",
+        "fact": "Desde que paso las noches a ceros grados tengo el cutis mejor.. :P No ya en serio! Tengo dos telescopios y aprovecho los viajes que puedo para llevarme el equipo... y de vez en cuando, sacar alguna foto ;)"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ibermática",
+          "image": {
+            "alt": "Logo_Ibermática.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/dbde7d31-aba4-4e6f-8a67-cec3a35ed2f5_logo_ibermatica.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Scrum Master",
+            "startDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "Scrum Master en dos equipos de desarrollo.\n\nDesarrollamos aplicaciones para dispositivos embebidos Android con Kotlin. En backend utilizamos Java con Spring.\n\nIntentamos construir un grupo rico culturalmente, con formación continua, mejora continua, en un espacio seguro para comunicarnos y compartir.\n\nSi estás buscando Keywords, aquí te dejo unas pocas :)\n\n* Desarrollamos con Kotlin, JUnit5 y Espresso para los tests E2E\n* Utilizamos Docker Compose para montar nuestros entornos de trabajo y Jenkins para el Circuito de Integración Continua. El CD es muy nicho para este proyecto.\n* En servidor tenemos Java con Spring y JUnit5. Jenkins para el CI, etc. \n* Utilizamos actualmente GitFlow pero estamos trabajando para cambiar a TBD, Feature Toggles, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ibermática",
+          "image": {
+            "alt": "Logo_Ibermática.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/795a3ea2-7c3f-4b87-bdbe-a09b3dbbf7b7_logo_ibermatica.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jefe de Proyecto",
+            "startDate": "2010-07-01",
+            "finishDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "En este periodo desempeñe dos cargos al mismo tiempo.\n\n---------------------\n\nResponsable de Producto de aplicaciones C/C++. \n\nGestión y Planificación de las Peticiones de Cambio recibidas desde ONCE y estudio de impacto de las mismas sobre el negocio. Las tareas de Gestión comprenden:\n\n- Mantenimiento Evolutivo\n- Mantenimiento Correctivo\n- Mantenimiento Regenerativo\n- Consultoría de Negocio\n\nLos productos engloban aplicaciones desarrolladas en C/C++ sobre Unix y Linux (RedHat o CentOS), Visual C++ (6, 2003 y 2005), Visual Basic, ORACLE PL/SQL y Shell Script.\n\nResponsable de Área - Proyecto EVONCE\n\nEl proyecto EVONCE consistió en una evolución tanto Funcional como Tecnológica del parque informático de la ONCE, el cual se encontraba principalmente en NATURAL / ADABAS y fue migrado a una Arquitectura SOA, con .NET como capa de presentación, Java (EJBs 2.0) en la capa de negocio y ORACLE como motor de acceso a datos. Durante estos años fui responsable del Área de JUEGO, la cual gestiona el ciclo de vida del cupón de la ONCE, desde el nacimiento del mismo en la Imprenta de la ONCE, pasando por su distribución, venta, celebración y pago de premios. Mis funciones como Responsable del Área fueron:\n \n- Seguimiento y Control del proyecto en reuniones semanales con el Cliente\n- Reporte de Situación del proyecto y avances a la Dirección, siguiendo normativa CMMI3 y metodología PMP\n- Planificación y Gestión del Cambio\n- Gestión del Riesgo\n- Revisiones de Calidad\n\nEste desarrollo estaba compuesto por 11 aplicaciones, desarrolladas por equipos de software deslocalizados (Madrid, Bilbao, San Sebastián), incluyendo una factoría de Software en Argentina."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Centos",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "Shell",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ibermática",
+          "image": {
+            "alt": "Logo_Ibermática.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/20062368-4e65-499f-9e6b-136ebd6f99ca_logo_ibermatica.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto .NET",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-07-01",
+            "challenges": [
+              {
+                "description": "Dentro del proyecto de Evolución de los Sistemas de Información de la ONCE (EVONCE), fuí responsable del desarrollo y diseño del Front-end de la arquitectura, el cual se desarrolló en Visual Basic .NET 2005. Este Front-end funciona como un navegador web, recogiendo la información que recibe desde los servidores de negocio, consumiendo Servicios Web (WS) y mostrándola de manera Accesible y Usable al usuario final. Los aspectos técnicos principales a destacar son:\n\nDesarrollado principalmente en Visual Basic .NET 2005\nDesarrollos complementarios en C/C++\nElaboración Addons (Tools) para Visual Studio 2005, como herramientas de apoyo para los desarrolladores finales\nCustomización de Visual Studio mediante Gestión de Políticas\nMáquina Virtual JavaScript, como extensión funcional de la herramienta funcional\nArquitectura SOA (WS) y XML"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ibermática",
+          "image": {
+            "alt": "Logo_Ibermática.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/3df950cd-9ba1-4a60-9ca2-9c06349aecdd_logo_ibermatica.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jefe de Proyecto - Responsable .NET y www.juegosonce.es",
+            "startDate": "2007-01-01",
+            "finishDate": "2009-11-01",
+            "challenges": [
+              {
+                "description": "Responsable del Área de Desarrollo Windows y del portal de Venta Online del producto de la ONCE www.juegosonce.com. Como responsable, mis funciones eran coordinar las Peticiones de Cambio que se recibían desde ONCE, así como apoyar a los funcionales en el estudio y valoración del impacto y posterior planificación del trabajo. Las tareas de gestión comprenden:\n\nMantenimiento Evolutivo\nMantenimiento Correctivo\nMantenimiento Regenerativo\nConsultoría de Negocio\n\nEl software mantenido abarcaba un amplio abanico de tecnologías y lenguajes, entre los principales se encontraban Visual C++, C++ sobre Unix, Visual Basic .NET y PL/SQL (ORACLE)."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ibermática",
+          "image": {
+            "alt": "Logo_Ibermática.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/b6444bd4-dfca-48b9-bfb9-ba6faeba060f_logo_ibermatica.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jefe de Proyecto - www.juegosonce.es",
+            "startDate": "2004-01-01",
+            "finishDate": "2006-12-01",
+            "challenges": [
+              {
+                "description": "Responsable del Desarrollo e Implantación del proyecto www.juegosonce.com, portal de venta Online de los productos de O.N.C.E. Siendo un proyecto estratégico para la organización, mis funciones comenzaron desde la toma de requisitos con el usuario, pasando por tareas de diseño en el modelo de datos hasta soporte en las actividades de desarrollo. Los aspectos técnicos a destacar de este proyecto son:\n\nCapa de presentación: Coldfusion / HTML4 / CSS\nCapa de Negocio: Java EJBs 2.0\nMotor de Base de datos: ORACLE 9i (PL/SQL)\nHerramienta Audit Vault para la securización del portal\nShell Scripts, TCP/IP, UNIX"
+              }
+            ],
+            "competences": [
+              {
+                "name": "ColdFusion",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Shellscript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOA",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified Scrum Product Owner®",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-01-01",
+        "institution": {
+          "name": "Agilar",
+          "URL": "http://bcert.me/swyhfumrm",
+          "image": {
+            "alt": "srumpo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/0bbfbe59-e8e8-49a1-90be-36a8bd8c527d_srumpo.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified ScrumMaster",
+        "startDate": "2018-02-01",
+        "finishDate": "2018-02-01",
+        "institution": {
+          "name": "Agilar",
+          "URL": "https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm",
+          "image": {
+            "alt": "scrummaster.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/084433a9-abdd-4e27-9318-c444bd46de55_scrummaster.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/davidislacruz/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
