@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,19 +11,12 @@
       "title": "Agile Player",
       "description": "Hola! :)\n\nPues soy programador de vocación.. pero me encantan las personas y los equipos. Comencé como programador C++ en Sevilla, pasé por Analista, Jefe de Proyecto, etc. ya aquí en Madrid y desde hace hace unos cuantos años, estoy interesado en organizaciones horizontales (Sociocracia), Agile (XP) y sobre todo, en todos los aspectos técnicos y buenas prácticas en el desarrollo de Software :)\n\nSoy tranquilo, alegre pero también un poco tímido! :P \n\nNo creo en los \"jefes\", me gustaría encontrar un sitio donde todo el mundo pudiera aportar y todos aprendiéramos de todos.",
       "location": {
-        "notes": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/davidisla"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/davidislacruz/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Soy astrónomo aficionado!!!",
@@ -37,8 +30,8 @@
         "organization": {
           "name": "Ibermática",
           "image": {
-            "alt": "Logo_Ibermática.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/dbde7d31-aba4-4e6f-8a67-cec3a35ed2f5_logo_ibermatica.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/dbde7d31-aba4-4e6f-8a67-cec3a35ed2f5_logo_ibermatica.jpg",
+            "alt": "Logo_Ibermática.jpg"
           }
         },
         "roles": [
@@ -95,8 +88,8 @@
         "organization": {
           "name": "Ibermática",
           "image": {
-            "alt": "Logo_Ibermática.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/795a3ea2-7c3f-4b87-bdbe-a09b3dbbf7b7_logo_ibermatica.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/795a3ea2-7c3f-4b87-bdbe-a09b3dbbf7b7_logo_ibermatica.jpg",
+            "alt": "Logo_Ibermática.jpg"
           }
         },
         "roles": [
@@ -146,8 +139,8 @@
         "organization": {
           "name": "Ibermática",
           "image": {
-            "alt": "Logo_Ibermática.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/20062368-4e65-499f-9e6b-136ebd6f99ca_logo_ibermatica.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/20062368-4e65-499f-9e6b-136ebd6f99ca_logo_ibermatica.jpg",
+            "alt": "Logo_Ibermática.jpg"
           }
         },
         "roles": [
@@ -185,8 +178,8 @@
         "organization": {
           "name": "Ibermática",
           "image": {
-            "alt": "Logo_Ibermática.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/3df950cd-9ba1-4a60-9ca2-9c06349aecdd_logo_ibermatica.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/3df950cd-9ba1-4a60-9ca2-9c06349aecdd_logo_ibermatica.jpg",
+            "alt": "Logo_Ibermática.jpg"
           }
         },
         "roles": [
@@ -224,8 +217,8 @@
         "organization": {
           "name": "Ibermática",
           "image": {
-            "alt": "Logo_Ibermática.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/b6444bd4-dfca-48b9-bfb9-ba6faeba060f_logo_ibermatica.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/b6444bd4-dfca-48b9-bfb9-ba6faeba060f_logo_ibermatica.jpg",
+            "alt": "Logo_Ibermática.jpg"
           }
         },
         "roles": [
@@ -272,19 +265,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": ".NET",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kotlin",
+          "name": "Android",
           "type": "technology"
         }
       },
@@ -296,25 +290,37 @@
       },
       {
         "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "C#",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": "C++",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
           "type": "technology"
         }
       },
@@ -332,19 +338,7 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -356,13 +350,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
+          "name": "Oracle",
           "type": "technology"
         }
       },
@@ -374,13 +362,19 @@
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "Redis",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "SOA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -391,29 +385,49 @@
         "degreeAchieved": true,
         "name": "Certified Scrum Product Owner®",
         "startDate": "2019-06-01",
-        "finishDate": "2019-01-01",
         "institution": {
           "name": "Agilar",
           "URL": "http://bcert.me/swyhfumrm",
           "image": {
-            "alt": "srumpo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/0bbfbe59-e8e8-49a1-90be-36a8bd8c527d_srumpo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/0bbfbe59-e8e8-49a1-90be-36a8bd8c527d_srumpo.png",
+            "alt": "srumpo.png"
           }
-        }
+        },
+        "finishDate": "2019-01-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified ScrumMaster",
         "startDate": "2018-02-01",
-        "finishDate": "2018-02-01",
         "institution": {
           "name": "Agilar",
           "URL": "https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm",
           "image": {
-            "alt": "scrummaster.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/084433a9-abdd-4e27-9318-c444bd46de55_scrummaster.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/084433a9-abdd-4e27-9318-c444bd46de55_scrummaster.png",
+            "alt": "scrummaster.png"
           }
+        },
+        "finishDate": "2018-02-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
         }
       }
     ]
@@ -422,8 +436,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/davidislacruz/"
+          "URL": "https://www.linkedin.com/in/davidislacruz/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/davidisla",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "davidisla@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637515202",
+          "countryCode": "+34"
         }
       ]
     },
@@ -441,7 +468,19 @@
           "name": "Kotlin",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Engineering Management",
+        "Mobile Developer",
+        "Scrum Master & Agile Coach",
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Lo más importante es la cultura. \n\nSi la cultura es buena, si las personas son lo más importante y se busca la calidad del Software, entonces lo que me gustaría sería disfrutar esa cultura! Un puesto de Backend Developer sería perfecto.\n\nSi hay que trabajar en ella, buscarla o practicarla, entonces podría perseguirla con un puesto de Scrum Master o Team Lead.\n\n",
+    "goodPractices": "Intento mentorizar sobre buenas prácticas (Desacople, Cohesión, SOLID, TDD, etc.) y principios Ágiles (CI/CD, TBD, etc.). Les animo a seguir creciendo y cuido de que nos sintamos orgullosos de lo que hacemos."
   }
 }
