@@ -491,6 +491,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Lo más importante es la cultura. \n\nSi la cultura es buena, si las personas son lo más importante y se busca la calidad del Software, entonces lo que me gustaría sería disfrutar esa cultura! Un puesto de Backend Developer sería perfecto.\n\nSi hay que trabajar en ella, buscarla o practicarla, entonces podría perseguirla con un puesto de Scrum Master o Team Lead.\n\n",
     "goodPractices": "Intento mentorizar sobre buenas prácticas (Desacople, Cohesión, SOLID, TDD, etc.) y principios Ágiles (CI/CD, TBD, etc.). Les animo a seguir creciendo y cuido de que nos sintamos orgullosos de lo que hacemos."
   }
