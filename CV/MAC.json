@@ -38,6 +38,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "Autentia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/ebbc8abf-3cb9-4b6a-888c-c5440eafd3c1_logo-autentia-izerti.svg",
+            "alt": "logo-autentia-izertis.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Tech Lead en Autentia, desarrollando aplicaciones principalmente con Micronaut, Kotlin y Postgres.\n\nEn este nuevo periodo laboral y con una cultura muy diferente, disfruto fomentando buenas prácticas de desarrollo, en un entorno colaborativo y donde todos aportamos desde muchos puntos de vista."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Micronaut Framework",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ibermática",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/dbde7d31-aba4-4e6f-8a67-cec3a35ed2f5_logo_ibermatica.jpg",
