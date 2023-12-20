@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -21,6 +21,16 @@
       {
         "topic": "Soy astrónomo aficionado!!!",
         "fact": "Desde que paso las noches a ceros grados tengo el cutis mejor.. :P No ya en serio! Tengo dos telescopios y aprovecho los viajes que puedo para llevarme el equipo... y de vez en cuando, sacar alguna foto ;)"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/davidislacruz/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/davidisla"
       }
     ]
   },
@@ -266,6 +276,7 @@
     "languages": [
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
@@ -441,7 +452,7 @@
         },
         {
           "URL": "https://twitter.com/davidisla",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
