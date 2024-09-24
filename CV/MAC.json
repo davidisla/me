@@ -55,7 +55,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -101,7 +101,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -289,7 +289,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -357,7 +357,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -495,12 +495,6 @@
       ],
       "contactMails": [
         "davidisla@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "637515202",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -535,7 +529,7 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
