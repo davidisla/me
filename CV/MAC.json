@@ -510,6 +510,10 @@
         {
           "name": "Kotlin",
           "type": "technology"
+        },
+        {
+          "name": "Micronaut Framework",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
