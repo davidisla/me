@@ -312,6 +312,49 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Nuevo TPV de la ONCE",
+          "description": "Desarrollo del nuevo TPV de la ONCE, un terminal Android totalmente customizado e integrado con hardware específico donde la Accesibilidad (manejado por personal invidente o con resto de visión) y Seguridad fueron dos elementos desafiantes.\n\nEl terminal se integró con una impresora, lector de códigos de barras (2D y 3D), pagos con tarjeta. Se realizó un bastionado completo (securización) y se desarrolló un MDM (Movile Device Management) para actualizar y controlar los terminales de manera remota, en una APN privada.\n\nTodo el producto se construyó aplicando un modelo de trabajo Agile, donde pudimos reflexionar sobre la metodología de desarrollo, los aspectos mas cruciales de seguridad, accesibilidad y mantenimiento.",
+          "URL": "https://portal.once.es/empleado/publicaciones/asi-somos/asi-somos-1/asi-somos-329/juego-social/tpv-una-herramienta-esencial-para-los-vendedores-accesible-y-segura",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/28/4e2c48ca-b47c-4113-a2ae-dff266a7bed4_736687166_230444306_.jpg",
+            "alt": "736687166_230444306_1706x960[1].jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2019-01-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "Weblogic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Venta Online del Cupón de la ONCE",
           "description": "Primera puesta en producción de la página www.juegosonce.es, el portal de venta de los productos de la ONCE (Cupón, Fin de Semana, Cuponazo, etc.).\n\nAdemás de ser el primer portal de venta para la compañía, el reto también incluyó la creación de un canal de venta totalmente nuevo, rediseño e integración con los sistemas tradicionales.",
           "URL": "https://www.juegosonce.es/",
