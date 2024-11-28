@@ -86,6 +86,7 @@
           {
             "name": "Scrum Master",
             "startDate": "2019-06-01",
+            "finishDate": "2022-12-01",
             "challenges": [
               {
                 "description": "Scrum Master en dos equipos de desarrollo.\n\nDesarrollamos aplicaciones para dispositivos embebidos Android con Kotlin. En backend utilizamos Java con Spring.\n\nIntentamos construir un grupo rico culturalmente, con formación continua, mejora continua, en un espacio seguro para comunicarnos y compartir.\n\nSi estás buscando Keywords, aquí te dejo unas pocas :)\n\n* Desarrollamos con Kotlin, JUnit5 y Espresso para los tests E2E\n* Utilizamos Docker Compose para montar nuestros entornos de trabajo y Jenkins para el Circuito de Integración Continua. El CD es muy nicho para este proyecto.\n* En servidor tenemos Java con Spring y JUnit5. Jenkins para el CI, etc. \n* Utilizamos actualmente GitFlow pero estamos trabajando para cambiar a TBD, Feature Toggles, etc."
