@@ -599,6 +599,10 @@
         {
           "name": "Micronaut Framework",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
