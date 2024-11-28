@@ -314,7 +314,11 @@
         "details": {
           "name": "Venta Online del Cupón de la ONCE",
           "description": "Primera puesta en producción de la página www.juegosonce.es, el portal de venta de los productos de la ONCE (Cupón, Fin de Semana, Cuponazo, etc.).\n\nAdemás de ser el primer portal de venta para la compañía, el reto también incluyó la creación de un canal de venta totalmente nuevo, rediseño e integración con los sistemas tradicionales.",
-          "URL": "https://www.juegosonce.es/"
+          "URL": "https://www.juegosonce.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/28/328eba40-2f0e-4efd-940a-0e5a785e24df_logo.svg",
+            "alt": "logo.b54fdd54b48b3601[1].svg"
+          }
         },
         "type": "launch",
         "publishingDate": "2010-01-01",
