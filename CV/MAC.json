@@ -412,6 +412,12 @@
       },
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Android",
           "type": "technology"
         }
@@ -616,6 +622,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Android",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
@@ -629,10 +639,6 @@
       },
       {
         "name": "MySQL",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
         "type": "technology"
       }
     ],
