@@ -46,11 +46,11 @@
         },
         "roles": [
           {
-            "name": "Tech Lead",
+            "name": "Team Lead",
             "startDate": "2022-12-01",
             "challenges": [
               {
-                "description": "Tech Lead en Autentia, desarrollando aplicaciones principalmente con Micronaut, Kotlin y Postgres.\n\nEn este nuevo periodo laboral y con una cultura muy diferente, disfruto fomentando buenas prácticas de desarrollo, en un entorno colaborativo y donde todos aportamos desde muchos puntos de vista."
+                "description": "Team Lead en Autentia, desarrollando aplicaciones principalmente con Micronaut, Kotlin y Postgres.\n\nEn este nuevo periodo laboral y con una cultura muy diferente, disfruto fomentando buenas prácticas de desarrollo, en un entorno colaborativo y donde todos aportamos desde muchos puntos de vista."
               }
             ],
             "competences": [
