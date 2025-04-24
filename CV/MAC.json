@@ -235,10 +235,10 @@
           {
             "name": "Jefe de Proyecto - Responsable .NET y www.juegosonce.es",
             "startDate": "2007-01-01",
-            "finishDate": "2009-11-01",
+            "finishDate": "2010-01-01",
             "challenges": [
               {
-                "description": "Responsable del Área de Desarrollo Windows y del portal de Venta Online del producto de la ONCE www.juegosonce.com. Como responsable, mis funciones eran coordinar las Peticiones de Cambio que se recibían desde ONCE, así como apoyar a los funcionales en el estudio y valoración del impacto y posterior planificación del trabajo. Las tareas de gestión comprenden:\n\nMantenimiento Evolutivo\nMantenimiento Correctivo\nMantenimiento Regenerativo\nConsultoría de Negocio\n\nEl software mantenido abarcaba un amplio abanico de tecnologías y lenguajes, entre los principales se encontraban Visual C++, C++ sobre Unix, Visual Basic .NET y PL/SQL (ORACLE)."
+                "description": "Realice funciones de Team Lead en dos equipos de trabajo.\n\nContinuo al frente de www.juegosonce.es y paso a ser responsable también del equipo .NET. Durante este periodo y debido a la exigencia del tiempo que requieren ambos grupos, reduzco el tiempo que paso colaborando en el código, manteniendo sesiones de mentorización y buenas prácticas.\n\nEl hecho de que funcionalmente, los conceptos del dominio son muy similares en ambos grupos (ciclo de vida del Cupón), facilita la gestión de ambos grupos.\n\nEn el equipo de .NET, desarrollamos aplicaciones altamente accesibles, con desarrollos esporádicos en C/C++ y Shell Script.\n\n- Visual Basic .NET 2005\n- Visual C/C++\n- PL/SQL con ORACLE\n- Shell Script \n"
               }
             ],
             "competences": [
