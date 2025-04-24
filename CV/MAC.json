@@ -652,11 +652,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "Android",
         "type": "technology"
       },
       {
-        "name": "Docker",
+        "name": "C++",
         "type": "technology"
       },
       {
@@ -665,10 +669,6 @@
       },
       {
         "name": "Kotlin",
-        "type": "technology"
-      },
-      {
-        "name": "MySQL",
         "type": "technology"
       }
     ],
