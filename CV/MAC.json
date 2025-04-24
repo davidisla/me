@@ -273,11 +273,11 @@
         "roles": [
           {
             "name": "Jefe de Proyecto - www.juegosonce.es",
-            "startDate": "2004-01-01",
-            "finishDate": "2006-12-01",
+            "startDate": "2006-01-01",
+            "finishDate": "2007-12-01",
             "challenges": [
               {
-                "description": "Responsable del Desarrollo e Implantación del proyecto www.juegosonce.com, portal de venta Online de los productos de O.N.C.E. Siendo un proyecto estratégico para la organización, mis funciones comenzaron desde la toma de requisitos con el usuario, pasando por tareas de diseño en el modelo de datos hasta soporte en las actividades de desarrollo. Los aspectos técnicos a destacar de este proyecto son:\n\nCapa de presentación: Coldfusion / HTML4 / CSS\nCapa de Negocio: Java EJBs 2.0\nMotor de Base de datos: ORACLE 9i (PL/SQL)\nHerramienta Audit Vault para la securización del portal\nShell Scripts, TCP/IP, UNIX"
+                "description": "Nuestro objetivo es finalizar el desarrollo del portal web de venta del producto de la ONCE, www.juegosonce.es. Retomamos el trabajo de un año de duración, realizado por otro equipo, el cual tenía como objetivo el desarrollo de un prototipo del producto final. \n\nComo Team Lead y siendo un proyecto estratégico para ONCE con gran repercusión en la organización, mis responsabilidades se repartían en tareas de gestión, seguimiento y reporte a la dirección, con las tareas más técnicas como definición de la arquitectura, implementación de partes críticas y  soporte al equipo de desarrollo.\n\n- Capa de presentación: Coldfusion / HTML4 / CSS\n- Capa de Negocio: Java EJBs 2.0\n- Motor de Base de datos: ORACLE 9i (PL/SQL)\n- Herramienta Audit Vault para la securización del portal\n- Shell Scripts, TCP/IP, UNIX\n"
               }
             ],
             "competences": [
