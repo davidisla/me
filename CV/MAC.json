@@ -50,7 +50,7 @@
             "startDate": "2022-12-01",
             "challenges": [
               {
-                "description": "Estos años en Autentia, he pivotado entre tareas de **Team Lead** y **Delivery Manager**, en diferentes equipos de trabajo.\n\nActualmente ocupo un puesto de **Team Lead**, trabajando para una importante organización de ámbito deportivo.\n\nSe nos plantea el reto de migrar tanto infraestructura como soluciones de manera paulatina, mientras adaptamos el negocio a los nuevos requisitos del cliente.\nEn el día a día, disfruto promoviendo buenas prácticas de desarrollo y animando a todos a mejorar cada día. \n\n- Backend en Kotlin con Micronaut\n- Frontend en React y TypeScript\n- Entorno de CI con GitHub Actions\n- Entorno de CD con ArgoCD\n- Despliegue en EKS (Kubernetes en AWS)\n- Utilizamos TBD y Feature Toggles \n"
+                "description": "Actualmente ocupo un puesto de Team Lead, trabajando para una importante organización de ámbito deportivo. Se nos plantea el reto de migrar tanto infraestructura como soluciones de manera paulatina, mientras adaptamos el negocio a los nuevos requisitos del cliente.\n\nEn el día a día, me aseguro que el equipo siga los acuerdos de trabajo y cumpla con los estándares de calidad que nos marcamos. Disfruto promoviendo buenas prácticas de desarrollo y animando a todos a mejorar cada día. \n\n- Backend en Kotlin con Micronaut\n- Frontend en React y TypeScript\n- Entorno de CI con GitHub Actions\n- Entorno de CD con ArgoCD\n- Despliegue en EKS (Kubernetes en AWS)\n- Utilizamos TBD y Feature Toggles "
               }
             ],
             "competences": [
