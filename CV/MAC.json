@@ -524,6 +524,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "AWS Solutions Architect Associate (SAA-C03)",
+        "startDate": "2024-12-01",
+        "institution": {
+          "name": "AWS",
+          "URL": "https://www.credly.com/badges/9c6f9e7f-e40e-4c8b-bc23-fd5201b3fafa/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/24/d4f42dce-56f7-46c9-ae3f-a3ac49dc4366_image-(25).png",
+            "alt": "image (25).png"
+          }
+        },
+        "finishDate": "2024-12-01",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Certified Scrum Product Owner®",
         "startDate": "2019-06-01",
         "institution": {
