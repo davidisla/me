@@ -84,12 +84,12 @@
         },
         "roles": [
           {
-            "name": "Scrum Master",
+            "name": "Delivery Manager y Team Lead",
             "startDate": "2019-06-01",
             "finishDate": "2022-12-01",
             "challenges": [
               {
-                "description": "Scrum Master en dos equipos de desarrollo.\n\nDesarrollamos aplicaciones para dispositivos embebidos Android con Kotlin. En backend utilizamos Java con Spring.\n\nIntentamos construir un grupo rico culturalmente, con formación continua, mejora continua, en un espacio seguro para comunicarnos y compartir.\n\nSi estás buscando Keywords, aquí te dejo unas pocas :)\n\n* Desarrollamos con Kotlin, JUnit5 y Espresso para los tests E2E\n* Utilizamos Docker Compose para montar nuestros entornos de trabajo y Jenkins para el Circuito de Integración Continua. El CD es muy nicho para este proyecto.\n* En servidor tenemos Java con Spring y JUnit5. Jenkins para el CI, etc. \n* Utilizamos actualmente GitFlow pero estamos trabajando para cambiar a TBD, Feature Toggles, etc."
+                "description": "Realicé funciones de Delivery Manager y Team Lead, en dos equipos de trabajo. \n\nEl reto tecnológico es el mayor que me he enfrentado, diseñar y desarrollar el TPV de la ONCE, un dispositivo con requisitos muy exigentes en cuanto a Seguridad, Accesibilidad y Conectividad. Mi tiempo lo reparto cuidando que el producto se entregue en plazos y según las especificaciones y por otro lado, desarrollando las partes críticas del proyecto junto con el equipo de desarrollo. \n\nIntento construir un grupo rico culturalmente, con formación continua, mejora continua, en un espacio seguro para comunicarnos y compartir.\n\nPara el TPV, desarrollamos aplicaciones Android con Kotlin y Java con Spring + MySQL en Backend.\n\n- Android con Kotlin, tests con JUnit5/Mockito y Espresso para los tests E2E.\nEn Backend utilizamos Java con Spring y JUnit5.\n- Utilizamos Docker Compose para montar nuestros entornos de trabajo y Jenkins para el Circuito de Integración Continua. \n- El despliegue se realiza a través de Jenkins, con fases de despliegue que incluyen resources con hardware específicos.\n- Hemos migrado de GitFlow a TBD + Feature Toggles.\n"
               }
             ],
             "competences": [
