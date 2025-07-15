@@ -8,7 +8,7 @@
     "profile": {
       "name": "David",
       "surnames": "Isla Cruz",
-      "title": "Team Lead",
+      "title": "Teach Lead",
       "description": "Soy una persona apasionada por los equipos y las personas que los conforman, convencido de que son el recurso más valioso de cualquier organización. \n\nEn mis equipos intento fomentar un ambiente de trabajo sano, alegre, colaborativo y seguro para intercambiar nuestras opiniones. \n\nEn cuanto al desarrollo de software, no llegaremos muy lejos si no aplicamos buenas prácticas en nuestro día a día. Conceptos básicos como acoplamiento, cohesión, Clean Code o SOLID deben ser las base para aplicar buenas prácticas como TDD, CI/CD, TBD, etc. y para ello, solo hay una forma de conseguirlo, predicar con el ejemplo (show me the code!).\n\nBusco una cultura empresarial inclusiva, segura y que se preocupe por el crecimiento de sus empleados.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
